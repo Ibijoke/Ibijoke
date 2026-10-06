@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ibijoke
-- 👀 I’m interested in cloud technology
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in all things data and cloud
 - 📫 How to reach me ibijoke.dsci@gmail.com
 
 <!---
